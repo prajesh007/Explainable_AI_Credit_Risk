@@ -25,7 +25,6 @@ Due to interactive visualizations (SHAP, LIME, JavaScript widgets),
 GitHub may not render the `.ipynb` file correctly.
 
 ### ✅ How to view the project:
-- 📌 **Recommended**: Open `Explainable_AI_Credit_Risk.html`
 - ▶️ Run the notebook directly in **Google Colab**
 - ⬇️ Download the `.ipynb` and run locally
 
@@ -91,4 +90,5 @@ git clone https://github.com/your-username/explainable-credit-risk.git
 cd explainable-credit-risk
 pip install -r requirements.txt
 jupyter notebook
+
 
