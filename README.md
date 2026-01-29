@@ -86,9 +86,11 @@ supporting actionable explanations.
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/your-username/explainable-credit-risk.git
-cd explainable-credit-risk
+git clone https://github.com/prajesh007/Explainable_AI_Credit_Risk.git
+cd Explainable_AI_Credit_Risk
 pip install -r requirements.txt
 jupyter notebook
+
+
 
 
